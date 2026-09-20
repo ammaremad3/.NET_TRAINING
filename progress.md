@@ -25,3 +25,16 @@
 
 ## وين وقفنا
 - التالي: Day 2B (Inheritance, Polymorphism, Interfaces)
+## Day 2B ✅ (Score: 10/10)
+- أتقنت: Inheritance (Person → Student/Teacher/Admin)، Polymorphism (virtual/override)، List<Person> مع foreach
+- أتقنت: Interfaces كعقد (contract)، List<IDiscountable> فيها classes مختلفة
+- Object Initializer: new Student { Id = 1, Name = "Ammar" }
+- بدون أخطاء بهالجلسة، PascalCase واسم الـ parameters مضبوطين
+
+## لسا ضعيف
+- Multiple Interfaces (class ينفذ أكثر من interface) لسا ما جربته
+- تجربة حذف method من class ينفذ interface (قراءة رسالة Error) لسا ما اتعملت
+- انتباه للتفاصيل الصغيرة (أسماء، حروف، ;) - اقرأ الكود قبل ما تشغله
+
+## وين وقفنا
+- التالي: نكمل تمارين Interfaces المعلقة (IPrintable + total discount + تجربة الـ Error)، وبعدها Quiz على Day 2B، وبعدين Day 3 (Collections + LINQ)
