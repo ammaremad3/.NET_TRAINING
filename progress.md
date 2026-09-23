@@ -34,7 +34,29 @@
 ## لسا ضعيف
 - Multiple Interfaces (class ينفذ أكثر من interface) لسا ما جربته
 - تجربة حذف method من class ينفذ interface (قراءة رسالة Error) لسا ما اتعملت
-- انتباه للتفاصيل الصغيرة (أسماء، حروف، ;) - اقرأ الكود قبل ما تشغله
+- انتباه للتفاصيل الصغيرة (أسماء، حروف، ;) - اقرأ الكود قبل ما تشغلهgit 
 
 ## وين وقفنا
 - التالي: نكمل تمارين Interfaces المعلقة (IPrintable + total discount + تجربة الـ Error)، وبعدها Quiz على Day 2B، وبعدين Day 3 (Collections + LINQ)
+## Day 2B ✅ (Score: 10/10)
+- أتقنت: Inheritance (:), virtual/override (Polymorphism), Interfaces (I + implements)
+- فهمت الفرق: class يرث من class واحد بس، بس يقدر يطبق كذا interface
+- مثال مطبق: Employee -> Manager (override CalculateBonus) + IReportable
+
+## لسا ضعيف
+- ما في شي واضح، بس تذكر تكتب object creation وتستدعي الـ methods فعليًا مش بس تعرّف الـ classes
+
+## وين وقفنا
+- Day 2 (OOP) خلص بالكامل ✅
+- التالي: Day 3 (Collections + LINQ + مقدمة async/await)
+## Day 3 ✅ (Score: 10/10)
+- أتقنت: List<T>, Dictionary<TKey,TValue>, LINQ (Where, Select, OrderBy, FirstOrDefault, Count) مع Chaining
+- فهمت Lambda expressions (n => n > 10)
+- أخذت مقدمة بسيطة لـ async/await (رح نتعمق فيها مع EF Core بـ Day 12)
+
+## لسا ضعيف
+- ما في شي واضح، أداء ممتاز اليوم كامل
+
+## وين وقفنا
+- Day 3 خلص بالكامل ✅
+- التالي: Day 4 (SQL 1: SELECT, WHERE, AND/OR, ORDER BY, LIKE, IN, BETWEEN)
