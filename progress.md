@@ -60,3 +60,14 @@
 ## وين وقفنا
 - Day 3 خلص بالكامل ✅
 - التالي: Day 4 (SQL 1: SELECT, WHERE, AND/OR, ORDER BY, LIKE, IN, BETWEEN)
+## Day 4 ✅ (Score: 10/10)
+- أتقنت: SELECT, WHERE, ORDER BY (ASC/DESC), LIKE ('A%'), IN, BETWEEN
+- قدرت أدمج كذا شرط مع بعض (AND + IN + ORDER BY) بنفس الـ query
+- أداء ممتاز، ما في أخطاء
+
+## لسا ضعيف
+- ما في شي واضح
+
+## وين وقفنا
+- Day 4 خلص بالكامل ✅
+- التالي: Day 5 (SQL 2: INSERT, UPDATE, DELETE, COUNT/SUM/AVG/MIN/MAX, GROUP BY, HAVING)
