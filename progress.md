@@ -71,3 +71,16 @@
 ## وين وقفنا
 - Day 4 خلص بالكامل ✅
 - التالي: Day 5 (SQL 2: INSERT, UPDATE, DELETE, COUNT/SUM/AVG/MIN/MAX, GROUP BY, HAVING)
+## Day 5 ✅ (Score: 10/10)
+- أتقنت: INSERT, UPDATE, DELETE (مع أهمية WHERE عشان ما نعدل/نمسح كل الجدول)
+- أتقنت: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+- أتقنت: GROUP BY (تقسيم الصفوف لمجموعات + تطبيق aggregate على كل مجموعة)
+- أتقنت: HAVING (فلترة بعد الـ GROUP BY) والفرق بينه وبين WHERE
+- قاعدة مهمة اتعلمتها: أي عمود بالـ SELECT لازم يكون بالـ GROUP BY أو جوا aggregate function
+
+## لسا ضعيف
+- ما في شي واضح، أداء ممتاز اليوم كامل (10/10 بكل التمارين)
+
+## وين وقفنا
+- Day 5 خلص بالكامل ✅
+- التالي: Day 6 (SQL 3: Primary/Foreign Keys, Relationships, Normalization basics, INNER JOIN, LEFT JOIN)
