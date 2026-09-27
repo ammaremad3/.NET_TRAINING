@@ -84,3 +84,15 @@
 ## وين وقفنا
 - Day 5 خلص بالكامل ✅
 - التالي: Day 6 (SQL 3: Primary/Foreign Keys, Relationships, Normalization basics, INNER JOIN, LEFT JOIN)
+## Day 6 ✅ (Score: 9/10)
+- أتقنت: Primary Key, Foreign Key (يشاور على PK بجدول تاني)
+- أتقنت: One-to-Many (Major->Students), Many-to-Many (يحتاج جدول وسيط)
+- أتقنت: INNER JOIN (بس المتطابق), LEFT JOIN (كل اليسار + NULL لو ما فيه تطابق)
+- خطأ واحد: قلت إن FK لازم يكون Unique (غلط - ممكن يتكرر بجدول Many side)
+
+## لسا ضعيف
+- تمييز نظري بين INNER/LEFT/FULL JOIN بأسئلة Multiple Choice (مش بالكتابة)
+
+## وين وقفنا
+- Day 6 خلص بالكامل ✅
+- التالي: Day 7 (SQL Practice - تمارين واقعية تجمع كل SQL)
