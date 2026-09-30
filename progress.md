@@ -96,3 +96,16 @@
 ## وين وقفنا
 - Day 6 خلص بالكامل ✅
 - التالي: Day 7 (SQL Practice - تمارين واقعية تجمع كل SQL)
+## Day 7 ✅ (Score: 10/10)
+- أتقنت: تمارين SQL مركبة (JOIN + WHERE + GROUP BY + HAVING + ORDER BY)
+- أتقنت: LEFT JOIN مع COUNT(Students.Id) عشان Major بدون طلاب يطلع 0
+- أتقنت: Subqueries (correlated subquery، >= ALL، AVG)
+- أتقنت: IS NULL / IS NOT NULL (مش = NULL)
+- انتبه: GROUP BY بيعمل مجموعة للـ NULL كمان
+
+## لسا ضعيف
+- ما في شي واضح. تذكر تجاوب كل أسئلة الـ Quiz (نسيت س1 و س2 أول مرة)
+
+## وين وقفنا
+- Day 7 خلص بالكامل ✅ (SQL كامل)
+- التالي: Day 8 (ASP.NET Core Fundamentals: Project structure, Program.cs, Dependency Injection, Middleware, Configuration)
