@@ -109,3 +109,19 @@
 ## وين وقفنا
 - Day 7 خلص بالكامل ✅ (SQL كامل)
 - التالي: Day 8 (ASP.NET Core Fundamentals: Project structure, Program.cs, Dependency Injection, Middleware, Configuration)
+## Day 8 (جزئي) ✅ (Score: 8/10)
+- أتقنت: Project structure، Program.cs (Services قبل Build، Middleware بعده)
+- أتقنت: Dependency Injection + Interface (IStudentService) وتبديل الـ implementation بسطر وحد
+- أتقنت: Lifetimes: Singleton (1,2,3..)، Scoped (1,1,1 لكل Request)، Transient
+- أتقنت: Middleware (app.Use، await next()، short-circuit، ترتيب Authentication قبل Authorization)
+- فهمت: Unable to resolve service = نسيت التسجيل بالـ DI
+
+## لسا ضعيف
+- صيغة الـ generics: AddScoped<IA, A>() (backticks بالنسخ، الفاصلة، الـ >)
+- انتباه لحالة الأحرف ("Hello Ammar")
+- تجاوب كل التمارين بالرسالة (تمارين 16/17 تأجلت)
+- الفرق الحقيقي بين Scoped و Transient (لما أكثر من class يطلبوا نفس الـ Service)
+
+## وين وقفنا
+- Day 8 باقي منه: Configuration (appsettings.json، IConfiguration، GetConnectionString) + تمارينه
+- التالي بعدها: Day 9 (HTTP + Web API)
